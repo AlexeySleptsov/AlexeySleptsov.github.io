@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AlexeySleptsov.github.io/static/css/main.59489dea.chunk.css",
+    "main.js": "/AlexeySleptsov.github.io/static/js/main.7f92984d.chunk.js",
+    "main.js.map": "/AlexeySleptsov.github.io/static/js/main.7f92984d.chunk.js.map",
+    "runtime-main.js": "/AlexeySleptsov.github.io/static/js/runtime-main.7bcb2d17.js",
+    "runtime-main.js.map": "/AlexeySleptsov.github.io/static/js/runtime-main.7bcb2d17.js.map",
+    "static/css/2.b46dbf60.chunk.css": "/AlexeySleptsov.github.io/static/css/2.b46dbf60.chunk.css",
+    "static/js/2.93c11b71.chunk.js": "/AlexeySleptsov.github.io/static/js/2.93c11b71.chunk.js",
+    "static/js/2.93c11b71.chunk.js.map": "/AlexeySleptsov.github.io/static/js/2.93c11b71.chunk.js.map",
+    "index.html": "/AlexeySleptsov.github.io/index.html",
+    "precache-manifest.ab56fc0253381517fd42764a839cc9c7.js": "/AlexeySleptsov.github.io/precache-manifest.ab56fc0253381517fd42764a839cc9c7.js",
+    "service-worker.js": "/AlexeySleptsov.github.io/service-worker.js",
+    "static/css/2.b46dbf60.chunk.css.map": "/AlexeySleptsov.github.io/static/css/2.b46dbf60.chunk.css.map",
+    "static/css/main.59489dea.chunk.css.map": "/AlexeySleptsov.github.io/static/css/main.59489dea.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bcb2d17.js",
+    "static/css/2.b46dbf60.chunk.css",
+    "static/js/2.93c11b71.chunk.js",
+    "static/css/main.59489dea.chunk.css",
+    "static/js/main.7f92984d.chunk.js"
+  ]
+}
